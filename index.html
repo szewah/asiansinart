@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" type="image/png" href="apple-touch-icon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:title" content="Asians in Art">
+<meta property="og:image" content="apple-touch-icon.png">
+<!-- Fonts: Lovelo by Renzler Design. Copyright (c) 2013 by Renzler Design. All rights reserved. See COPYRIGHT.txt. -->
+<title>Asians in Art</title>
+<meta name="description" content="Asians in Art: long-form interviews with Asian and Asian diaspora artists in film, theater, music, visual art and food.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/brands.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/solid.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/fontawesome.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="#top" id="top">
+      <img src="apple-touch-icon.png" alt="" width="44" height="44">
+      <span>Asians in Art</span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#episodes">Episodes</a>
+      <a href="#about">About</a>
+    </nav>
+    <div class="subscribe">
+      <button class="btn btn-primary" type="button" id="subBtn" aria-expanded="false" aria-controls="subPanel">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>Subscribe</button>
+      <div class="sub-panel" id="subPanel" role="dialog" aria-label="Our channels" hidden></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="hero" aria-labelledby="heroTitle">
+    <div class="wrap">
+      <div class="hero-copy">
+        <span class="eyebrow">A podcast of long-form interviews</span>
+        <h1 id="heroTitle"><span class="hot">Asian artists</span> <em>in their own words.</em></h1>
+        <p class="hero-lede">Conversations with filmmakers, actors, musicians, playwrights, dancers, photographers, chefs, architects and designers about their lives, their work and what it takes to build a life in the arts.</p>
+        <div>
+          <p class="listen-label">Listen, watch and follow</p>
+          <div class="btn-row" id="heroListen"></div>
+        </div>
+      </div>
+      <article class="feature" id="feature" aria-label="Latest episode"></article>
+    </div>
+  </section>
+
+  <section class="block" id="episodes" aria-labelledby="episodesTitle">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="episodesTitle">All episodes</h2>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="toolbar">
+        <div class="search" role="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label class="sr-only" for="q">Search episodes</label>
+          <input id="q" type="search" placeholder="Search by guest, film, album, place or topic" enterkeyhint="search">
+          <button class="clear" type="button" id="clearQ" aria-label="Clear search" hidden>&times;</button>
+        </div>
+        <div class="filters">
+          <div class="chips" id="tagChips" role="group" aria-label="Filter by art form"></div>
+          <label class="sort" for="sort">Sort
+            <select id="sort">
+              <option value="new">Newest first</option>
+              <option value="old">Oldest first</option>
+              <option value="short">Shortest first</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div class="grid" id="grid"></div>
+      <div class="more"><button class="btn" type="button" id="showAll" hidden>Show all episodes</button></div>
+      <div class="empty" id="empty" hidden>
+        <p>No episodes match that search. Try a guest's name, an art form or a place.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block praise" aria-labelledby="praiseTitle">
+    <div class="wrap">
+      <div class="section-head"><h2 id="praiseTitle">What people are saying</h2></div>
+      <div class="quotes">
+        <figure class="quote">
+          <blockquote>
+            <div class="review-head"><strong>So interesting</strong></div>
+            <p>I'm glad Hong Kong cinema is being talked about again. They have some of the greatest filmmakers in the world.</p>
+          </blockquote>
+          <figcaption>A listener, on <button type="button" class="quote-ep" data-open="ep-1">EP 1 · Po Chih Leong</button></figcaption>
+        </figure>
+        <figure class="quote">
+          <blockquote><p>A fascinating acting tale by my wonderful Yee cousin. An awesome journey among the Hollywood galaxy. An inspirational role model for the next generation of Asian American actors, Kudos to you!</p></blockquote>
+          <figcaption>A listener, on <button type="button" class="quote-ep" data-open="ep-23">EP 23 · Kelvin Han Yee</button></figcaption>
+        </figure>
+        <figure class="quote">
+          <blockquote><p>Thank you for the great, intimate and mindful interview with Ms Judith Hill. This was a very interesting and in depth interview. Very good questions!</p></blockquote>
+          <figcaption>A listener, on <button type="button" class="quote-ep" data-open="ep-22">EP 22 · Judith Hill</button></figcaption>
+        </figure>
+        <figure class="quote">
+          <blockquote><p>Thank you for this interview. I searched for Cindy Cheung interviews and this was the first result, but it didn't disappoint! I loved to learn about her life and career. Very personal.</p></blockquote>
+          <figcaption>A listener, on <button type="button" class="quote-ep" data-open="ep-19">EP 19 · Cindy Cheung</button></figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="about" aria-labelledby="aboutTitle">
+    <div class="wrap">
+      <div class="section-head"><h2 id="aboutTitle">About Asians in Art</h2></div>
+      <div class="about-grid">
+        <div class="prose">
+          <p>We started Asians in Art out of a desire to put the stories of Asian and Asian diaspora artists on the record, particularly those whose contributions may never receive widespread recognition. We began with Szewah's father, filmmaker Po Chih Leong, a pioneer of Hong Kong cinema whose work also extended to Britain.</p>
+          <p>As Karuna and Szewah developed the project, we realized how many stories were missing from the cultural narratives about Asia and the Asian diaspora. These narratives can often be dominated by politics, economics and a handful of familiar names. We believe culture is also shaped by smaller creative acts, ideas and exchanges whose influence may only become apparent years later.</p>
+          <p>Through long-form interviews across many artistic disciplines, we give artists the time and space to reflect on their lives, work and creative journeys. We hope to preserve their experiences for future generations and contribute to a richer understanding of Asia and the Asian diaspora. And we want to show younger generations what it takes to build a life in the arts or related industries.</p>
+          <p>Asian creatives are driving global culture in film, theater, music, visual art, food, and design, and Asians in Art brings their voices together to tell the full story of that creative force.</p>
+        </div>
+        <figure class="hosts-figure" style="margin:0">
+          <div class="hosts-photo"><img src="hosts.jpg" alt="The co-hosts of Asians in Art, Karuna Shinsho and Szewah, smiling together at a café table" width="1200" height="900" loading="lazy"></div>
+          <figcaption>Your hosts, Karuna Shinsho and Szewah.</figcaption>
+        </figure>
+      </div>
+      <div class="hosts">
+        <article class="host">
+          <span class="eyebrow">Co-host</span>
+          <h3>Karuna Shinsho</h3>
+          <p>Born in Hawaii to Japanese parents, Karuna grew up surrounded by music. Her father, a classical music singer and DJ, regularly took her to concerts as a child. When she moved to Japan, Karuna fell in love with jazz after she saw the late Nancy Wilson sing at a club in Tokyo. She was blown away by the heart-wrenching interpretation of the master vocalist's signature song "Guess Who I Saw Today". Karuna also became obsessed with bossa nova after hearing the music of João Gilberto and Antônio Carlos Jobim.</p>
+            <p>Before her journey as a musical artist and lyricist, she was a recognized face in broadcast journalism, first on Japan's NHK Television, then on international networks including Asia Business News, CNN International, and the Australian Broadcasting Corporation. For fifteen years Karuna was seen by millions of viewers around the world, and she was highly commended at the Asian Television Awards as Best News Presenter.</p>
+            <p>After leaving journalism, and during a challenging period in her life, Karuna turned to singing as a source of comfort. At this time she also met her mentor, Nanny Assis, who saw her passion for music and agreed to produce her debut album of bossa nova classics and jazz standards in three languages: English, Portuguese and Japanese. Karuna's first album, "To Love Again", was nominated for Best Jazz Album at the 2022 WAMMIE Awards in Washington, D.C.</p>
+        </article>
+        <article class="host">
+          <span class="eyebrow">Co-host</span>
+          <h3>Szewah</h3>
+          <p>A Hong Konger who grew up immersed in films and surrounded by stories. Her father is film director Po Chih Leong, whose works led to Hong Kong's New Wave cinema. Her mother was the Head Librarian at the Medical Library of the University of Hong Kong. Szewah first picked up a Sony video camera when her sister Sze Wing Leong and her father recruited her to film footage for their groundbreaking documentary series about the 1997 Hong Kong Handover, Riding the Tiger, for Channel 4 in the UK.</p>
+            <p>After graduating from SOAS with a degree in Chinese and Management, Szewah joined CNN International in London, later moving to its Hong Kong office, where the evening news she produced was seen by millions around the region. She stayed in broadcast news for the next ten years, living in Singapore, Malaysia and Kathmandu, then returned to Hong Kong for a career in corporate communications. She started Asians in Art with Karuna after a chance meeting in New York City.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <span>&copy; <span id="year"></span> Asians in Art. Hosted by Karuna Shinsho and Szewah.</span>
+    <div class="btn-row" id="footListen"></div>
+  </div>
+</footer>
+
+<dialog id="dlg" aria-labelledby="dlgName"><div class="dlg" id="dlgBody"></div></dialog>
+
+<!-- Episode list: edit episodes.js to add or change episodes -->
+<script src="episodes.js"></script>
+<script>
+(function () {
+  "use strict";
+  const SHOW = window.AIA_SHOW || {};
+  const TAGS = { music: "Music", screen: "Film & TV", stage: "Theater & dance", visual: "Visual art", food: "Food" };
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = (s) => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d");
+  const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const fmtDate = (d) => { const [y, m, day] = String(d).split("-").map(Number); return y ? `${MONTHS[m - 1]} ${day}, ${y}` : ""; };
+  const toSecs = (t) => String(t).split(":").map(Number).reduce((a, b) => a * 60 + b, 0);
+
+  const EPS = (window.AIA_EPISODES || []).map((e) => {
+    const id = e.n != null ? "ep-" + e.n : "bonus-" + e.date;
+    const label = e.n != null ? "EP " + e.n : "Bonus";
+    const hay = norm([e.name, e.title, e.role, e.kw, (e.themes || []).join(" "), e.goodFor, e.blurb, e.description, (e.tags || []).map((t) => TAGS[t] || t).join(" ")].join(" "));
+    return { ...e, id, label, hay, displayTitle: e.title || e.name };
+  });
+  const BY_ID = Object.fromEntries(EPS.map((e) => [e.id, e]));
+  const byNewest = (a, b) => b.date.localeCompare(a.date);
+
+  // ---------- channels ----------
+  // Icons come from Font Awesome (loaded in the head). If it fails to load, the labels still show.
+  const CH = {
+    yt: { name: "YouTube", icon: "fa-brands fa-youtube", verb: "Watch on ", note: "Watch every episode" },
+    ap: { name: "Apple Podcasts", icon: "fa-solid fa-podcast", verb: "Listen on ", note: "Listen on iPhone, Mac and Apple Watch" },
+    sp: { name: "Spotify", icon: "fa-brands fa-spotify", verb: "Listen on ", note: "Listen on any phone or computer" },
+    fb: { name: "Facebook", icon: "fa-brands fa-facebook", verb: "Follow on ", note: "News, guests and behind the scenes" },
+    ig: { name: "Instagram", icon: "fa-brands fa-instagram", verb: "Follow on ", note: "Clips and photos from our interviews" },
+  };
+  const LISTEN = ["yt", "ap", "sp"], FOLLOW = ["fb", "ig"];
+  const icon = (k) => `<i class="${CH[k].icon}" aria-hidden="true"></i>`;
+  function listenButtons(src, opts = {}) {
+    const keys = opts.keys || LISTEN;
+    return keys.filter((k) => src[k]).map((k, i) => {
+      const cls = "btn ch ch-" + k + (opts.primaryFirst && i === 0 ? " btn-primary" : "");
+      if (opts.iconOnly) return `<a class="${cls} icon-only" href="${esc(src[k])}" target="_blank" rel="noopener" aria-label="${CH[k].name}" title="${CH[k].name}">${icon(k)}</a>`;
+      return `<a class="${cls}" href="${esc(src[k])}" target="_blank" rel="noopener">${icon(k)}${opts.verbs ? CH[k].verb : ""}${CH[k].name}</a>`;
+    }).join("");
+  }
+  const ALL = [...LISTEN, ...FOLLOW];
+  document.getElementById("heroListen").innerHTML = listenButtons(SHOW, { keys: ALL });
+  document.getElementById("footListen").innerHTML = listenButtons(SHOW, { keys: ALL, iconOnly: true });
+
+  // Subscribe box
+  const subBtn = document.getElementById("subBtn");
+  const subPanel = document.getElementById("subPanel");
+  const subRow = (k) => `<a class="sub-link ch-${k}" href="${esc(SHOW[k])}" target="_blank" rel="noopener"><span class="sub-icon">${icon(k)}</span><span><strong>${CH[k].name}</strong><small>${CH[k].note}</small></span></a>`;
+  const listenRows = LISTEN.filter((k) => SHOW[k]).map(subRow).join("");
+  const followRows = FOLLOW.filter((k) => SHOW[k]).map(subRow).join("");
+  subPanel.innerHTML = `
+    <div class="sub-group"><span class="eyebrow">Listen and watch</span>${listenRows}</div>
+    ${followRows ? `<div class="sub-group"><span class="eyebrow">Follow us</span>${followRows}</div>` : ""}`;
+  function setSub(open) {
+    subPanel.hidden = !open;
+    subBtn.setAttribute("aria-expanded", String(open));
+    if (open) { const first = subPanel.querySelector("a"); if (first) first.focus(); }
+  }
+  subBtn.addEventListener("click", (ev) => { ev.stopPropagation(); setSub(subPanel.hidden); });
+  document.addEventListener("click", (ev) => { if (!subPanel.hidden && !ev.target.closest(".subscribe")) setSub(false); });
+  document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && !subPanel.hidden) { setSub(false); subBtn.focus(); } });
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  // ---------- latest episode ----------
+  const latest = EPS.filter((e) => e.n != null).sort(byNewest)[0];
+  if (latest) {
+    document.getElementById("feature").innerHTML = `
+      <span class="eyebrow">Latest episode</span>
+      <div class="feature-num" aria-hidden="true">${esc(latest.n)}</div>
+      <h2>${esc(latest.displayTitle)}</h2>
+      <p>${esc(latest.blurb)}</p>
+      <span class="meta">${esc(latest.name)} · ${fmtDate(latest.date)} · ${esc(latest.mins)} min</span>
+      <div class="btn-row">${listenButtons(latest, { verbs: false, primaryFirst: true })}<button class="btn" type="button" data-open="${latest.id}">Episode notes</button></div>`;
+  }
+
+  // ---------- episode browser ----------
+  const state = { q: "", tag: "all", sort: "new" };
+  const grid = document.getElementById("grid");
+  const qInput = document.getElementById("q");
+  const clearQ = document.getElementById("clearQ");
+
+  const usedTags = Object.keys(TAGS).filter((t) => EPS.some((e) => (e.tags || []).includes(t)));
+  const chipsEl = document.getElementById("tagChips");
+  chipsEl.innerHTML = [["all", "All"], ...usedTags.map((t) => [t, TAGS[t]])]
+    .map(([v, l]) => `<button type="button" class="chip" data-tag="${v}"${v === "all" ? "" : ` data-t="${v}"`} aria-pressed="${v === "all"}">${esc(l)}</button>`).join("");
+
+  function highlight(text, terms) {
+    let html = esc(text);
+    if (!terms.length) return html;
+    // highlight on the escaped plain text; skip terms that normalize differently
+    for (const t of terms) {
+      if (t.length < 2 || /^(amp|lt|gt|quot|#?39|mark)$/i.test(t)) continue;
+      const re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+      html = html.replace(/(^|>)([^<]+)/g, (m, a, b) => a + b.replace(re, "<mark>$1</mark>"));
+    }
+    return html;
+  }
+
+  function cardHTML(e, terms) {
+    const tags = (e.tags || []).map((t) => `<span class="tag" data-t="${esc(t)}">${esc(TAGS[t] || t)}</span>`).join("");
+    const bonus = e.n == null ? '<span class="tag bonus">Bonus</span>' : "";
+    return `<button type="button" class="card" data-open="${e.id}"${(e.tags || [])[0] ? ` data-t="${esc(e.tags[0])}"` : ""}>
+      <div class="card-top"><span class="epno">${esc(e.label)}</span><span>${fmtDate(e.date)} · ${esc(e.mins)} min</span></div>
+      <h3>${highlight(e.name, terms)}</h3>
+      <p class="role">${highlight(e.role, terms)}</p>
+      <p class="blurb">${highlight(e.blurb, terms)}</p>
+      <div class="card-foot">${bonus}${tags}</div>
+    </button>`;
+  }
+
+  function render() {
+    const terms = norm(state.q).split(/\s+/).filter(Boolean);
+    let list = EPS.filter((e) => (state.tag === "all" || (e.tags || []).includes(state.tag)) && terms.every((t) => e.hay.includes(t)));
+    if (state.sort === "new") list.sort(byNewest);
+    else if (state.sort === "old") list.sort((a, b) => -byNewest(a, b));
+    else list.sort((a, b) => a.mins - b.mins || byNewest(a, b));
+    const rawTerms = state.q.trim().split(/\s+/).filter(Boolean);
+    // Default view: just the latest three, until the visitor asks for more, searches or filters.
+    const limited = !state.expanded && !state.q && state.tag === "all" && state.sort === "new";
+    const shown = limited ? list.slice(0, 3) : list;
+    grid.innerHTML = shown.map((e) => cardHTML(e, rawTerms)).join("");
+    document.getElementById("empty").hidden = list.length > 0;
+    showAll.hidden = !limited || list.length <= 3;
+    showAll.textContent = `Show all ${list.length} episodes`;
+    document.getElementById("count").textContent = limited ? `Latest 3 of ${EPS.length} episodes` : list.length === EPS.length ? `${EPS.length} episodes` : `${list.length} of ${EPS.length} episodes`;
+    clearQ.hidden = !state.q;
+  }
+
+  const showAll = document.getElementById("showAll");
+  showAll.addEventListener("click", () => { state.expanded = true; render(); });
+  qInput.addEventListener("input", () => { state.q = qInput.value; render(); });
+  clearQ.addEventListener("click", () => { qInput.value = ""; state.q = ""; render(); qInput.focus(); });
+  document.getElementById("sort").addEventListener("change", (ev) => { state.sort = ev.target.value; render(); });
+  chipsEl.addEventListener("click", (ev) => {
+    const b = ev.target.closest("[data-tag]"); if (!b) return;
+    state.tag = b.dataset.tag;
+    chipsEl.querySelectorAll("[data-tag]").forEach((c) => c.setAttribute("aria-pressed", String(c === b)));
+    render();
+  });
+
+  // ---------- episode dialog ----------
+  const dlg = document.getElementById("dlg");
+  const dlgBody = document.getElementById("dlgBody");
+
+  function descHTML(text) {
+    return String(text || "").split(/\n\s*\n/).map((p) => `<p>${esc(p.trim()).replace(/\n/g, "<br>")}</p>`).join("");
+  }
+  function openEpisode(id, fromHash) {
+    const e = BY_ID[id]; if (!e) return;
+    const tags = (e.tags || []).map((t) => `<span class="tag" data-t="${esc(t)}">${esc(TAGS[t] || t)}</span>`).join("");
+    const chapters = (e.moments || []).length ? `<div><h4>Chapters</h4><ol class="chapters">${e.moments.map((m) => e.yt
+      ? `<li><a href="${esc(e.yt)}&t=${toSecs(m.at)}s" target="_blank" rel="noopener"><time>${esc(m.at)}</time><span>${esc(m.text)}</span></a></li>`
+      : `<li><span class="row"><time>${esc(m.at)}</time><span>${esc(m.text)}</span></span></li>`).join("")}</ol></div>` : "";
+    const links = (e.links || []).length ? `<div><h4>Mentioned in this episode</h4><ul class="links">${e.links.map((l) => `<li><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a></li>`).join("")}</ul></div>` : "";
+    dlgBody.innerHTML = `
+      <div class="dlg-top"><span class="card-top" style="gap:12px"><span class="epno">${esc(e.label)}</span><span>${fmtDate(e.date)} · ${esc(e.mins)} min</span></span>
+        <button class="dlg-close" type="button" data-close aria-label="Close">&times;</button></div>
+      <div style="display:grid;gap:8px">
+        <h2 id="dlgName">${esc(e.name)}</h2>
+        <p class="role">${esc(e.role)}</p>
+        ${e.title ? `<p class="ep-title">${esc(e.title)}</p>` : ""}
+      </div>
+      <div class="btn-row">${listenButtons(e, { verbs: true, primaryFirst: true })}</div>
+      ${(e.themes || []).length ? `<div><h4>In this episode</h4><ul class="themes">${e.themes.map((t) => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}
+      ${e.goodFor ? `<div><h4>Good for</h4><p>${esc(e.goodFor)}</p></div>` : ""}
+      <div><h4>Episode notes</h4><div class="desc">${descHTML(e.description || e.blurb)}</div></div>
+      ${chapters}${links}
+      ${tags ? `<div class="card-foot">${tags}</div>` : ""}`;
+    if (!dlg.open) { try { dlg.showModal(); } catch (_) { dlg.setAttribute("open", ""); } }
+    dlgBody.parentElement.scrollTop = 0;
+    if (!fromHash && location.hash !== "#" + id) { try { history.replaceState(null, "", "#" + id); } catch (_) {} }
+  }
+  function closeEpisode() { if (dlg.open) dlg.close(); }
+  dlg.addEventListener("close", () => { if (/^#(ep|bonus)-/.test(location.hash)) { try { history.replaceState(null, "", location.pathname + location.search); } catch (_) {} } });
+  dlg.addEventListener("click", (ev) => { if (ev.target === dlg || ev.target.closest("[data-close]")) closeEpisode(); });
+  document.addEventListener("click", (ev) => {
+    const b = ev.target.closest("[data-open]"); if (!b) return;
+    ev.preventDefault(); openEpisode(b.dataset.open);
+  });
+  function fromHash() { const h = decodeURIComponent(location.hash.slice(1)); if (BY_ID[h]) openEpisode(h, true); }
+  window.addEventListener("hashchange", fromHash);
+
+  render();
+  fromHash();
+})();
+</script>
+
+</body>
+</html>
