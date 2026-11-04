@@ -193,7 +193,7 @@ The versatile actor spoke to Asians in Art about how she rediscovered her joy of
     date: '2026-07-31',
     mins: 38,
     tags: ['screen'],
-    blurb: 'Emmy winner Violet Du Feng talks about The Dating Game, her PBS documentary about rural bachelors in China, and Hidden Letters, her film about the women\'s script Nüshu.',
+    blurb: 'What does dating look like in a country with millions more men than women? Filmmaker Violet Du Feng follows three rural bachelors through a matchmaking camp in The Dating Game. She also discusses Hidden Letters and the secret women's script Nüshu.',
     description: `Shanghai native Violet Du Feng is known for creating multifaceted, intimate films that explore China's deeply complex social issues. A 2025 Guggenheim Fellow and Adjunct Professor at Columbia University, her credits include Harbor from the Holocaust and Please Remember Me, which led to China’s first documentary impact campaign and government policy improvements for senior dementia care.
 
 In this episode of Asians in Art, we discuss her latest film, The Dating Game. The movie premiered at Sundance 2025 as a Grand Jury Prize nominee and is now streaming on PBS. The documentary follows three rural bachelors on an intensive dating camp against the backdrop of China’s gender imbalance—a legacy of the one-child policy. We also explore Hidden Letters, her Oscar-shortlisted and Peabody-nominated film about Nüshu, the secret script created by women in Hunan, and what it reveals about female identity in China today.`,
@@ -235,7 +235,7 @@ In this episode of Asians in Art, we discuss her latest film, The Dating Game. T
     date: '2026-07-10',
     mins: 36,
     tags: ['screen'],
-    blurb: 'Indian actor and director Tannishtha Chatterjee, the princess of parallel cinema, on her film Full Plate, her move into directing, and her cancer treatment.',
+    blurb: 'After more than 50 films, Indian actor Tannishtha Chatterjee has moved behind the camera. She discusses her second feature as director, Full Plate, her love of acting, and what kept her grounded during treatment for stage-four cancer.',
     description: `We caught up with one of India's most acclaimed independent film actors and directors, Tannishtha Chatterjee, following the New York premiere of her latest film, Full Plate — her second feature as director, starring Kirti Kulhari, Sharib Hashmi, Indraneil Sengupta, and Monica Dogra.
 
 A Trained Hindustani classical vocalist and a graduate of India's prestigious National School of Drama, Tannishtha became known to the world for her roles in the German film Shadows of Time and Brick Lane. She's been in over 50 movies, and has starred alongside Abhay Deol in Road, Movie, and Nawazuddin Siddiqui in Dekh Indian Circus. Siddiqui played the lead role in her directorial debut, Roam Rome Mein.
@@ -267,7 +267,7 @@ In this interview, we talk about Full Plate, her love of acting, her move into d
     date: '2026-06-26',
     mins: 46,
     tags: ['music'],
-    blurb: 'Grammy-nominated vocalist Radhika Vekaria on the power of sound, devotion and the sacred: her work with Sanskrit and Vedic hymns and her album Warriors of Light.',
+    blurb: 'Radhika Vekaria draws on Sanskrit hymns and Vedic traditions to make contemporary music. The Grammy-nominated vocalist discusses the role of devotion in her work, why she sees music as medicine, and her album Warriors of Light.',
     description: `In this deeply personal conversation on the Asians in Art Podcast, we sit down with Radhika Vekaria — Grammy-nominated British Indian–East African vocalist, composer, sensory artist and speaker whose work explores the transformative power of sound.
 
 Drawing on Sanskrit narratives, Vedic hymns and the science of sound, her music bridges thousands of years of tradition with the contemporary world. Her album Warriors of Light received a 2025 GRAMMY® nomination. Rolling Stones called the album a "a deeply personal rendition that yearns for inner strength and peace of mind."
@@ -298,7 +298,7 @@ In this episode we cover:
     date: '2026-06-19',
     mins: 35,
     tags: ['stage'],
-    blurb: 'From Saigon to New York: choreographer and dance educator maura nguyễn donohue on her beginnings, returning to Asia as an artist, and the future of contemporary dance.',
+    blurb: 'Born in Saigon, maura nguyễn donohue has spent more than three decades making and teaching contemporary dance in New York. She discusses returning to Asia as an artist, her Vietnamese-Irish American identity, and where she thinks American dance is heading.',
     description: `The Village Voice has called her work "enormously powerful, alternately voluptuous and frenetic." maura nguyễn donohue has spent over 30 years as one of New York City's most distinctive voices in avant-garde dance performance — as a choreographer, curator, producer, and advocate for the art form. She is now Chair of Dance at Hunter College, one of the city's leading public colleges.
 
 Born in Vietnam, maura's reach extends well beyond New York. She's taken her work across the US, Europe, and Asia — and from 1999 to 2004, she served as artistic advisor for Dance Theater Workshop's Mekong Project, a Rockefeller Foundation-backed initiative that brought US choreographers into creative exchanges with artists in Cambodia, Thailand, and Vietnam.
@@ -321,7 +321,7 @@ In this conversation, we get into her beginnings, what it meant to find her voic
     date: '2026-05-29',
     mins: 49,
     tags: ['screen', 'music'],
-    blurb: 'Veteran actor, musician and activist Perry Yung embodies "Be water." The Oakland native grew up idolizing Bruce Lee and has navigated his career with remarkable flexibility, from The Knick and Warrior to 3 Body Problem.',
+    blurb: 'Perry Yung opens the conversation by playing the shakuhachi. The Oakland-born actor reflects on Bruce Lee\'s influence, working with Steven Soderbergh on The Knick, and a memorable moment on the set of Netflix\'s 3 Body Problem.',
     description: `In this episode we sit down with actor, musician, and activist Perry Yung.
 Perry opens with his own composition, "Offering" on the shakuhachi. We trace his Oakland upbringing, where Bruce Lee was a beacon of hope for an entire generation, to landing a role in Warriors, the HBO series based on a script Lee wrote decades before.
 
@@ -347,7 +347,7 @@ Plus, we cover his upcoming projects — Lucky Lu, East of Eden, and Avatar: The
     date: '2026-05-15',
     mins: 39,
     tags: ['stage'],
-    blurb: 'Multi-award-winning playwright, director and translator Aya Ogawa talks about grief, motherhood and making theater between worlds.',
+    blurb: 'Aya Ogawa\'s Obie-winning play The Nosebleed grew out of a personal story about family and grief. The Tokyo-born playwright discusses bringing the work to Japan, the chaos of motherhood, and what it means to translate theater between Japanese and English.',
     description: `Multi-award winning playwright, director, and translator, Aya Ogawa knows what it's like to live in many worlds and in between.
 
 Born in Tokyo and based in Brooklyn, their work centers women and non-binary perspectives and uses the stage as a space for exploring cultural identity and the immigrant experience.
@@ -400,7 +400,7 @@ Wen-Ting is part of a new generation of female jazz drummers stepping into the l
     date: '2026-04-10',
     mins: 6,
     tags: ['music'],
-    blurb: 'Extra time with Tharanga Goonetilleke: her role as a teacher, valuing her own creativity, and why obstacles should never have the final say on pushing artistic boundaries.',
+    blurb: 'In this six-minute extra, opera singer Tharanga Goonetilleke talks about teaching, learning to value her own creativity, and the obstacles artists face when they work beyond familiar boundaries.',
     description: `We couldn't fit everything into the main episode — so here's the bonus from the conversation where Tharanga Goonetilleke talks about her role as teacher, valuing her creativity and why issues should never have the final say on pushing artistic boundaries.`,
     links: [],
     kw: 'bonus opera soprano teaching teacher creativity creative barriers',
@@ -419,7 +419,7 @@ Wen-Ting is part of a new generation of female jazz drummers stepping into the l
     date: '2026-04-17',
     mins: 28,
     tags: ['stage'],
-    blurb: 'Ariel Estrada is an actor, theater maker, producer and founder of Leviathan Lab, an award-winning nonprofit creative studio advancing Asian and Asian American performing artists. He talks about the journey that shaped him and the community he built because he needed it to exist.',
+    blurb: 'Ariel Estrada grew up Filipino American in rural Alaska, then spent twenty years in a martial arts cult. He discusses finding his way into New York theater, confronting industry barriers, and founding Leviathan Lab to support Asian and Asian American performers.',
     description: `Growing up Filipino American in rural Alaska, Ariel Estrada learned early that he existed at the edges. Raised in a strict Asian household, he carried those pressures with him when he set his sights on New York's acting scene, only to find new walls waiting: class barriers, industry gatekeeping. Searching for empowerment, he spent twenty years inside a brutal martial arts cult before finding his way out — and his way forward.
 
 Today, Ariel is an actor, theater maker, producer, and the founder of Leviathan Lab, an award-winning nonprofit creative studio dedicated to advancing Asian and Asian American performing artists. In this episode, Ariel talks about the journey that shaped him and the community he built because he needed it to exist.`,
@@ -443,7 +443,7 @@ Today, Ariel is an actor, theater maker, producer, and the founder of Leviathan 
     date: '2026-04-03',
     mins: 37,
     tags: ['music'],
-    blurb: 'Tharanga Goonetilleke is one of opera\'s most distinctive voices and one of its most thoughtful minds. Her origins, the teachers who changed everything, taking her gift to stages, TED talks and classrooms, and the question at the heart of art: what is the point of artistic expression?',
+    blurb: 'Sri Lankan soprano Tharanga Goonetilleke talks about the teachers who shaped her and a career that has taken her from opera stages to classrooms and TED Talks. She also asks a larger question: what is artistic expression for?',
     description: `Tharanga Goonetilleke is one of opera's most distinctive voices — and one of its most thoughtful minds. We talk to her about her origins, the teachers who changed everything, taking her gift and passion to global audiences on stage, in TED talks and in classrooms, and a question that sits at the heart of art: what is the point of artistic expression?`,
     links: [
       { label: 'Tharanga\'s website', url: 'https://www.tharangagoonetilleke.com' },
@@ -466,7 +466,7 @@ Today, Ariel is an actor, theater maker, producer, and the founder of Leviathan 
     date: '2026-03-20',
     mins: 35,
     tags: ['music'],
-    blurb: 'Peter Lin is a Taiwanese-American trombonist, producer and educator based in New Jersey and New York City. Born in Baton Rouge and raised in northern New Jersey by parents who loved classical and Christian rock, how did he find his way into jazz?',
+    blurb: 'Trombonist Peter Lin grew up with classical music and Christian rock at home, but found his way to jazz. He talks about his Taiwanese heritage, his love of anime and video-game music, and how those influences enter his work.',
     description: `Peter Lin is a Taiwanese-American trombonist, producer, and educator based in New Jersey & New York City. He was born in Baton Rouge, Louisiana and raised in northern New Jersey. His parents love classical and Christian rock music. So how did he find his way into jazz?
 
 In this episode of Asians in Art, we unpack Peter's story – from school band to quartet – exploring what jazz means to him, his love of Anime and how his cultural heritage became a source of inspiration.`,
@@ -491,7 +491,7 @@ In this episode of Asians in Art, we unpack Peter's story – from school band t
     date: '2026-03-06',
     mins: 41,
     tags: ['stage', 'screen'],
-    blurb: 'Tom Hanks called him "Mr. Badass." He\'s been a "bro-ish menace" as Lorenzo in The Merchant of Venice and "an actor of the first order" as Prince Hal in Henry IV. Meet the award-winning actor, writer and narrator David Lee Huynh.',
+    blurb: 'From Shakespeare to more than 100 audiobooks, David Lee Huynh has built a career across stage and voice performance. The Louisiana-born actor discusses the challenges of working as an Asian American and narrating DC\'s All-Star Superman.',
     description: `David started his journey into acting in Lafayette, Louisiana. How did he make his way onto the New York stage and go on to become an award winning audiobook narrator, with over 100 book titles under his belt?
 
 In this episode of Asians in Art, we speak to David about the challenges he faced as an Asian American, his path to acting, and how his early focus on forging a sustainable career ultimately led to a SOVAS Voice Arts award for his narrations, including DC's All-Star Superman audiobook.`,
@@ -512,7 +512,7 @@ In this episode of Asians in Art, we speak to David about the challenges he face
     date: '2026-03-03',
     mins: 6,
     tags: [],
-    blurb: 'A short check-in with past guests and what they\'ve been up to since: new books, music awards and exhibitions.',
+    blurb: 'A six-minute update on former Asians in Art guests, including new books, music awards and exhibitions since their conversations with us.',
     description: `What have our guests been up to since we last spoke with them? From books to music awards to exhibitions, we give you the latest.`,
     links: [],
     kw: 'bonus update news past guests books awards exhibitions',
@@ -531,7 +531,7 @@ In this episode of Asians in Art, we speak to David about the challenges he face
     date: '2026-02-20',
     mins: 34,
     tags: ['stage'],
-    blurb: 'San Francisco-born Lauren Yee has made a career of exploring where the personal meets the political, finding humor at the heart of great historical change. We trace her path from a childhood love of storytelling to one of the most vital voices in US theater.',
+    blurb: 'A Cambodian psychedelic-rock record, a basketball game in 1989 Beijing, and life after the Soviet Union: playwright Lauren Yee finds stories in unusual corners of history. She discusses her plays and the importance of finding a community as a writer.',
     description: `It's said that history is written in stone, but playwright Lauren Yee finds it in the ordinary, whether in the groove of a Cambodian psych-rock record, at a basketball game in Beijing 1989 or in post-Soviet Union in the 1990s.
 
 San Francisco-born Yee has made a career of exploring the crossover of the personal and the political, finding humor in the heart of great historical change.
@@ -562,7 +562,7 @@ Inside the Episode:
     date: '2026-01-30',
     mins: 64,
     tags: ['screen', 'stage'],
-    blurb: 'How has acting changed? What does it mean to be an Asian American working actor? Jo Mei and Kenneth Lee discuss a life devoted to acting, the essence of the craft, and the drive for greater representation of Asian Americans in film, television and theater.',
+    blurb: 'Actors Jo Mei and Kenneth Lee know the realities of making a living on stage and screen. They discuss their craft, the barriers Asian American performers still face, and what has—and hasn\'t—changed in the industry.',
     description: `In this episode, actors Jo Mei and Kenneth Lee discuss a life devoted to acting, the essence of acting and the drive for greater representation of Asian Americans in movies, television, and theater productions.
 
 Kenneth Lee is an accomplished actor and advocate known for his versatility across major international stages and television. He famously originated the leading role of Hsu in Matt Charman’s The Machine, performing at the Park Avenue Armory, Donmar Warehouse, and the Manchester International Festival. His extensive theater credits range from classical turns in Hamlet and Henry IV Parts 1 & 2 at The Shakespeare Theatre to contemporary works like Snow in Midsummer at Classic Stage Company and The Great Leap at Portland Center Stage. A familiar face on screen, Kenneth has appeared in critically acclaimed series such as Mr. Robot, Search Party, The Blacklist, and Power Book III: Raising Kanan. Beyond his performance work, he is a founding member of the Asian American Performers’ Action Coalition (AAPAC), a recipient of a Tony Honor for Excellence in the Theatre.
@@ -587,7 +587,7 @@ Jo Mei is an OBIE Award-winning actress currently appearing in Compagnia de’ C
     date: '2026-01-16',
     mins: 54,
     tags: ['visual'],
-    blurb: 'Magnum Foundation Human Rights Fellow and interdisciplinary artist Xyza Cruz Bacani talks about her documentary projects on migration, labor and human rights. Filmed at Flux IV, New York.',
+    blurb: 'At 19, Xyza Cruz Bacani left the Philippines to work as a nanny in Hong Kong. A camera changed her path. We meet her at The Diaspora is Home in New York to discuss photography, migrant labor and belonging.',
     description: `For this episode of Asians in Art, we spoke with interdisciplinary artist Xyza Cruz Bacani at her most recent installation, The Diaspora is Home, at Flux IV in New York.
 
 At the age of 19, Xyza travelled from Bambang, Nueva Vizcaya to join her mother in Hong Kong, to work as a nanny for an affluent family. Bacani started taking casual photographs after purchasing her first digital single-lens reflex camera with a loan from her employer.
@@ -612,7 +612,7 @@ She is known for her black-and-white photographs of Hong Kong and documentary pr
     date: '2025-12-19',
     mins: 27,
     tags: ['food'],
-    blurb: 'Award-winning author Nancy Matsumoto writes about agroecology, food sovereignty, food and drink, and Japanese American culture and history. Her latest book, Reaping What She Sows, follows women changemakers rebuilding a broken food system against the odds.',
+    blurb: 'Why are women at the forefront of efforts to change the way food is grown and sold? James Beard Award-winning writer Nancy Matsumoto discusses her book Reaping What She Sows, Japanese American family history and her long-standing fascination with food.',
     description: `Nancy Matsumoto is an award-winning author who writes about agroecology, food sovereignty, the vibrant world of food and drink, and Japanese American culture and history.
 
 Her latest book, Reaping What She Sows: How Women Are Rebuilding Our Broken Food System, shares the stories of the female changemakers who are innovating shorter and more transparent food supply chains that prioritize sustainability and equity – against the odds.
@@ -639,7 +639,7 @@ We talk with Nancy about her latest book, her craft, and how food has been front
     date: '2025-11-28',
     mins: 31,
     tags: ['music'],
-    blurb: 'Juno Award winner Mariko Anraku is Associate Principal Harpist of the Metropolitan Opera Orchestra in New York City. She talks about her upbringing, her mentors, and working on the award-winning "Kimiko\'s Pearl" by Kevin Lau.',
+    blurb: 'Mariko Anraku has played harp with the Metropolitan Opera Orchestra since 1995. She reflects on the teachers who shaped her musical life and the collaborations that have taken her beyond the standard classical repertoire, including Kevin Lau\'s ballet score for Kimiko\'s Pearl.',
     description: `Japanese harpist Mariko Anraku and Juno award winner has been hailed as “a masterful artist of intelligence and wit” (New York Times) and “a manifestation of grace and elegance” (Jerusalem Post). Since 1995, she has been the Associate Principal Harpist of the world renowned Metropolitan Opera Orchestra in New York.
 
 Anraku's talent has earned her numerous honors, including first prize at the 1st Nippon Harp Competition and both third prize and the Pearl Chertok Prize for her exceptional performance at the 11th International Harp Contest in Israel.
