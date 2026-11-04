@@ -21,7 +21,7 @@ window.AIA_EPISODES = [
     date: '2026-10-23',
     mins: 28,
     tags: ['screen'],
-    blurb: 'Acting saved Kelvin Han Yee\'s life. He talks about the detour that nearly ended his acting career, the mentor who brought him back, and his role in Netflix\'s Space Force.',
+    blurb: 'After more than 40 years in film, television and theater, Kelvin Han Yee talks about the setback that nearly ended his acting career, the mentor who helped him return, and playing General Gao opposite Steve Carell in Netflix\'s Space Force.',
     description: `Our next guest on Asians in Art, filmed in Los Angeles, is veteran dramatic and comedic actor Kelvin Han Yee. His latest feature, “The Only Living Pickpocket in New York,” co-starring John Turturro, is in theaters nationwide this month.
 
 Over a career spanning more than 40 years in film, television, and theater, the San Francisco native has appeared in Peter Wang’s groundbreaking “A Great Wall” (1986), the first U.S. movie shot in China, as well as “9-1-1,” Todd Haynes’ “May December,” and the indie short “Mushroom Dad.”
@@ -47,7 +47,7 @@ But the road there wasn’t a straight line. In this episode, Kelvin opens up ab
     date: '2026-10-09',
     mins: 33,
     tags: ['music'],
-    blurb: 'Center stage with music powerhouse Judith Hill: her musical upbringing, her album Letters from a Black Widow, social media, life on tour, and what comes next.',
+    blurb: 'Judith Hill grew up in a musical household and went on to work with Prince and Michael Jackson. She talks about confronting online harassment through her album Letters from a Black Widow, and the demands of life as a touring musician.',
     description: `Judith Hill is a vocalist, composer, and multi-instrumentalist. She grew up in Los Angeles in a house full of music, the daughter of Japanese jazz pianist Michiko Hill and African American funk bassist Robert “Peewee” Hill, with legends like Sly Stone part of family life. Her parents remain a constant in her music, and today they play in her band.
 
 After studying music composition at university, Judith tried everything to find her footing as a singer-songwriter. Sought out by Spike Lee, she wrote ten original tracks for his film Red Hook Summer (2012). She was among the Grammy winners for the documentary 20 Feet From Stardom (2015). That same year, she released her debut solo album, Back in Time, which she co-produced with Prince at Paisley Park.
@@ -80,7 +80,7 @@ We caught up with Judith in between tours to discuss:
     date: '2026-09-25',
     mins: 34,
     tags: ['music'],
-    blurb: 'Jason Chu\'s couch has become a stage for Asian American storytelling. He shares how a summer in Beijing drew him into hip-hop, and how that led to his online videos on Asian American history and culture.',
+    blurb: 'A summer in Beijing introduced Jason Chu to China\'s underground hip-hop scene. He talks about his faith, discovering his Asian American identity at university, and how he came to make videos about Asian American history and culture from his living-room couch.',
     description: `Jason Chu didn't grow up thinking much about being Asian American — that came later, in college. And then, during a study abroad summer in Beijing, a chance encounter with a local rapper pulled him into China's underground hip-hop scene. Those threads, his sense of identity and his love of hip-hop, as well as his faith, ended up shaping everything that came after.
 
 His music has landed on Warrior (HBO/Cinemax), Snowpiercer (TNT), Mayans M.C. (FX), and Wu-Assassins (Netflix), and his latest album, We Were the Seeds, dropped in 2023. Today, he's known to millions online for the short, informative videos on Asian American history and culture he films from his couch.
@@ -113,7 +113,7 @@ Jason Chu 小时候并没怎么想过自己作为亚裔美国人的身份，这�
     date: '2026-09-10',
     mins: 32,
     tags: ['music'],
-    blurb: 'How Keiko Matsui turned her life into music: four decades of composing, recording and touring, from her early years in Japan to stages around the world.',
+    blurb: 'Keiko Matsui never intended to become a professional musician. Four decades and 30 albums later, the pianist looks back on her career, the demands of touring, and why a rice cooker was essential during her early years on the road.',
     description: `Our first guest on Asians in Art filmed in Los Angeles, California is internationally acclaimed pianist, composer, and humanitarian Keiko Matsui. Her music has been described as “passionate, emotive, and timeless anthems with rich harmonies and global rhythms.” Touring now for some four decades with a whopping 30 albums of original compositions under her belt, Keiko continues to draw devoted fans to her shows worldwide.
 
 Yet, becoming a professional musician was not something she initially aspired to growing up in Japan, despite showing signs of genius early on. Keiko, who began her piano studies at five years old, composed a soundtrack for the 1981 movie "Abandoned", directed by Shirô Moritani, when she was just a teenager. She went on to study at Yamaha Music Foundation and then eventually moved to the United States to release her debut album “A Drop of Water” in 1987 to critical acclaim. Since then, she has continued to shine as a solo artist, as well as worked with countless music legends, including Chaka Khan, Miles Davis, Stevie Wonder, Bob James, and Hugh Masekela. A firm believer in building bridges through music, Keiko is also passionate about lending a hand to many humanitarian causes, including early breast cancer detection and bone marrow donation drives.
@@ -136,7 +136,7 @@ Check out Keiko’s episode to find out what inspires her prolific creativity, w
     date: '2026-08-28',
     mins: 41,
     tags: ['stage', 'screen'],
-    blurb: 'She almost built F-14 jets. Cindy Cheung on leaving applied mathematics for acting, walking away from the industry, coming back to it, and how painting became part of her work.',
+    blurb: 'Before becoming an actor, Cindy Cheung studied applied mathematics and was offered a job working on F-14 fighter jets. She talks about leaving acting, finding her way back to it, and discovering another creative outlet in painting.',
     description: `Award-winning actor Cindy Cheung’s path to the stage and screen was not a linear one. Raised in California, Cindy studied applied mathematics at university and was even offered a job as a systems engineer to build F-14 fighter jets. But a workshop at an Asian American theater group convinced her that acting was a possible career option. After studying at American Conservatory Theater in the late 90s, Cindy headed to New York City to further pursue her craft. But a year in, doubts about the industry and herself led her to walk away from it all.
 
 Eventually, Cindy found her way back to acting, amassing a multitude of memorable performances in theater, film, and tv, including the 2025 revival of Bus Stop, M. Night Shyamalan’s Lady in the Water, and Netflix’s 13 Reasons Why and The Sinner. Cindy is a recipient of a Tony honor and OBIE citation for her contributions to theater and advocacy for Asian American performers.
@@ -171,7 +171,7 @@ The versatile actor spoke to Asians in Art about how she rediscovered her joy of
     date: '2026-08-14',
     mins: 14,
     tags: ['food'],
-    blurb: 'This episode of Asians in Art dips into the delectable world of chocolate. Born and raised on Staten Island in New York City, pastry chef and chocolatier Daniel Corpuz got hooked on baking in middle school after seeing Cupcake Wars on television. Armed with a degree from the prestigious Culinary Institute of America, Corpuz went on to dazzle in pastry kitchens at two Michelin-starred restaurant The Modern, The Clocktower, and One White Street. But when the pandemic hit, Corpuz shifted gears to focus on chocolate. From his own kitchen, he started posting his exquisite handcrafted bon bons, bursting with Filipino and Asian flavors, on social media. Netflix took notice and made him, at just 22, the youngest Asian American contestant on their nail-biting reality competition series “School of Chocolate”. Corpuz, who is now the Creative Director of the Chocolate Lab at the Culinary Institute of America, invited us to his namesake shop in New York’s Chinatown. We got to witness the expertise behind his artistic confections as well as understand his deep commitment to sustainability through ethical sourcing of cacao, especially from Southeast Asia.',
+    blurb: 'Chocolatier Daniel Corpuz began baking after watching Cupcake Wars on television. At his Chinatown shop, he talks about working in New York's restaurant kitchens, competing on Netflix's School of Chocolate, and bringing Filipino flavors to his handmade chocolates.',
     description: `This episode of Asians in Art dips into the delectable world of chocolate. Born and raised on Staten Island in New York City, pastry chef and chocolatier, Daniel Corpuz, got hooked on baking in middle school after seeing Cupcake Wars on television. Armed with a degree from the prestigious Culinary Institute of America, Corpuz went on to dazzle in pastry kitchens at two Michelin-starred restaurant The Modern, The Clocktower, and One White Street. But when the pandemic hit, Corpuz shifted gears to focus on chocolate. From his own kitchen, he started posting his exquisite handcrafted bon bons, bursting with Filipino and Asian flavors, on social media. Netflix took notice and made him, at just 22, the youngest Asian American contestant on their nail biting reality competition series “School of Chocolate”. Corpuz, who is now the Creative Director of the Chocolate Lab at the Culinary Institute of America, invited us to his namesake shop in New York’s Chinatown. We got to witness the expertise behind his artistic confections as well as understand his deep commitment to sustainability through ethical sourcing of cacao, especially from Southeast Asia.`,
     links: [
       { label: 'Daniel\'s Instagram', url: 'https://www.instagram.com/danielcorpuz' },
@@ -375,7 +375,7 @@ Recipient of the 2025 Doris Duke Artist Award, the 2023 Helen Merrill Award for 
     date: '2026-05-01',
     mins: 30,
     tags: ['music'],
-    blurb: 'Wen-Ting Wu is a drummer, composer and educator from Taiwan, now at the heart of New York City\'s jazz scene. From the moment she felt the swing she followed it, across genres, across oceans, and deep into the spiritual heart of the drum.',
+    blurb: 'Taiwanese drummer Wen-Ting Wu performs with New York jazz musicians and has toured internationally with indie-pop band Sunset Rollercoaster. She talks about finding her place in jazz, working in a male-dominated profession, and the spiritual importance of drumming in her life.',
     description: `Wen-Ting Wu is a drummer, composer, and educator from Taiwan, now at the heart of New York City's jazz scene. From the moment she felt the swing, she followed it — across genres, across oceans, and deep into the spiritual heart of the drum. She has performed at some of New York City's most iconic venues — including Jazz at Lincoln Center's Dizzy's Club, Smalls, Smoke, and at large festivals across the US and Taiwan. She is a regular member of Frank Lacy's Septet & Classical Jazz Ensemble, and the AAPI Jazz Collective and has shared the stage with notable artists such as Ed Cherry, Mimi Jones, Charenee Wade, Helen Sung, and Lonnie Plaxico. Wu’s diverse musical career also includes international tours with the indie-pop band Sunset Rollercoaster.
 
 For Wen-Ting, drumming is more than a career — it's something deeply spiritual. In this interview, she opens up about that profound connection to her craft, what it means to be a woman behind the kit in a male-dominated world, and what's next for one of jazz's most compelling drummers.
