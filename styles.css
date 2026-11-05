@@ -340,6 +340,25 @@ dialog::backdrop { background: rgba(14, 9, 36, .55); backdrop-filter: blur(2px);
 .chapters time { font-variant-numeric: tabular-nums; color: var(--accent); font-weight: 650; min-width: 3.2em; }
 .links { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
 
+/* Footer contact */
+.contact-prompt {
+  font-size: var(--s-sm);
+  color: var(--muted);
+}
+
+.contact-email {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+.contact-email:hover {
+  color: var(--ink);
+}
+
+
 /* Responsive */
 @media (max-width: 860px) {
   .hero .wrap, .about-grid { grid-template-columns: minmax(0, 1fr); }
