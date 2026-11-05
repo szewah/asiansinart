@@ -151,6 +151,10 @@
 <footer class="site-foot">
   <div class="wrap">
     <span>&copy; <span id="year"></span> Neon Cities Production</span>
+    <p class="contact-prompt">
+      Have a suggestion?
+      <a class="contact-email" id="contactEmail">We'd love to hear from you.</a>
+    </p>
     <div class="btn-row" id="footListen"></div>
   </div>
 </footer>
@@ -345,6 +349,10 @@
   render();
   fromHash();
 })();
+  //contact
+  const contact = document.getElementById("contactEmail");
+  const email = ["hello", "asiansinart.com"].join("@");
+  contact.href = "mailto:" + email;
 </script>
 
 </body>
