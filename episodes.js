@@ -12,6 +12,60 @@ window.AIA_SHOW = {
 };
 
 window.AIA_EPISODES = [
+  
+{
+  n: 24,
+  name: 'Insook Chappell',
+  title: 'The Roles Didn\'t Exist. So Insook Chappell Wrote Them',
+  role: 'Playwright and screenwriter',
+  date: '2026-11-06',
+  mins: 27,
+  tags: ['stage', 'screen'],
+
+  blurb: 'British-Korean playwright and screenwriter Insook Chappell talks about her journey from dance and acting to writing for stage and screen. From her award-winning debut This Isn\'t Romance to Disney+\'s A Thousand Blows, she discusses finding her voice through a visit to South Korea and her interest in Angela Carter and Korean shamanism.',
+
+  description: `Our next guest on Asians in Art is British-Korean playwright and screenwriter Insook Chappell, whose work spans theatre, film and television. Her television credits include the Disney+ historical drama A Thousand Blows, created by Peaky Blinders writer Steven Knight.
+
+Insook isn't afraid to tackle difficult subjects — from identity and family separation to the impact of government policies on individual lives. Born in South Korea and raised in Essex, England, she trained as a dancer at New York's Alvin Ailey School before pursuing acting. She began writing between acting jobs, and her debut play, This Isn't Romance, won the prestigious Verity Bargate Award.
+
+Premiering at London's Soho Theatre in 2009, This Isn't Romance tells the story of a Korean adoptee who returns to her birth country in search of the younger brother she left behind. The play examines the painful legacy of South Korea's international adoption system and raises questions about government-sponsored "Motherland" programs intended to reconnect overseas adoptees with a country where they may still feel like outsiders. It was later staged in Korean by the National Theatre Company of Korea.
+
+Her subsequent works include P'yongyang (2016), a love story set in North Korea; Mountains: The Dreams of Lily Kwok (2018), adapted from Helen Tse's memoir Sweet Mandarin; and The Free9 (2018), inspired by nine North Korean teenagers attempting to escape to South Korea, now part of the British GCSE Drama syllabus.
+
+As more international stories found their way onto film and television, Insook turned to screenwriting, contributing to A Thousand Blows while developing her own projects.
+
+We caught up with Insook in London, and spoke to her about her journey from dance and acting to writing for stage and screen, the trip that led to This Isn't Romance, the growing opportunities for international storytelling, and her fascination with British writer Angela Carter and Korean shamanism.
+
+Filmed at @apparitionlab UK`,
+
+  links: [
+    {
+      label: 'Learn more about Insook Chappell',
+      url: 'https://theagency.co.uk/the-clients/insook-chappell/'
+    }
+  ],
+
+  kw: 'Insook Chappell British Korean playwright screenwriter South Korea adoption adoptee This Isnt Romance Soho Theatre Verity Bargate Award Pyongyang North Korea Mountains Dreams of Lily Kwok Helen Tse Sweet Mandarin The Free9 A Thousand Blows Disney Plus Steven Knight Peaky Blinders Angela Carter Korean shamanism Alvin Ailey dance acting international storytelling',
+
+  themes: [
+    'from dance and acting to playwriting',
+    'the legacy of South Korean international adoption',
+    'writing about North Korea and family separation',
+    'moving from theatre to television and screenwriting',
+    'Angela Carter and Korean shamanism'
+  ],
+
+  goodFor: 'Playwrights, screenwriters, actors and anyone interested in Korean history, adoption, theatre and international storytelling.',
+
+  moments: [],
+
+  yt: 'https://www.youtube.com/watch?v=g4HCU8v2hq8',
+
+  ap: 'https://podcasts.apple.com/us/podcast/the-roles-didnt-exist-so-insook-chappell-wrote-them/id1848559972?i=1000800280320',
+
+  sp: 'https://open.spotify.com/episode/5R97BGDc0WQ6stdS2L8rhT'
+},
+
 
   {
     n: 23,
