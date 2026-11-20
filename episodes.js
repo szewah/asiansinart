@@ -14,6 +14,45 @@ window.AIA_SHOW = {
 window.AIA_EPISODES = [
   
 {
+  n: 25,
+  name: 'Kit Fan',
+  title: 'Kit Fan: Food Is an Expression of What Goes Unsaid',
+  role: 'Novelist, poet and critic',
+  date: '2026-11-20',
+  mins: 32,
+  tags: ['literature', 'food'],
+
+  blurb: 'Award-winning novelist and poet Kit Fan discusses Goodbye Chinatown, the unspoken language of food, Hong Kong identity, AI and the courage to create.',
+
+  description: `Hong Kong-born novelist, poet, and critic Kit Fan joins Asians in Art to discuss his latest novel, Goodbye Chinatown, a story of food, family, migration, and belonging set in London's Chinatown. The conversation also explores the role of food in storytelling, the impact of AI on human creativity, and why artistic courage matters in turbulent times.
+
+From childhood afternoons spent reading in a Hong Kong library to becoming a fellow of the UK's Royal Society of Literature, Fan has built an acclaimed literary career. His debut novel, Diamond Hill, won the Northern Writers' Award for Fiction, while his poetry collection The Ink Cloud Reader was shortlisted for the T.S. Eliot and Forward Prizes.
+
+A regular contributor to The Guardian, Times Literary Supplement, and The Telegraph, Fan also advocates for writers' rights as vice-chair of the Authors' Licensing and Collecting Society and co-chair of the Copyright Licensing Agency.`,
+
+  links: [],
+
+  kw: 'Kit Fan Goodbye Chinatown Diamond Hill The Ink Cloud Reader Hong Kong novelist poet fiction literature writing food migration belonging diaspora AI copyright creativity Royal Society of Literature',
+
+  themes: [
+    'food as a language of love and family',
+    'migration and belonging',
+    'memories of Hong Kong',
+    'writing fiction and poetry',
+    'AI and writers rights',
+    'artistic courage'
+  ],
+
+  goodFor: 'Readers, writers, and anyone interested in food, family, migration and identity.',
+
+  moments: [],
+
+  yt: 'https://www.youtube.com/watch?v=MINUEx9ha_Q',
+  ap: 'https://podcasts.apple.com/us/podcast/kit-fan-food-is-an-expression-of-what-goes-unsaid/id1848559972?i=1000803163727',
+  sp: 'https://open.spotify.com/episode/4YHWPrJjL4cfeabuOXtCQM'
+},
+
+{
   n: 24,
   name: 'Insook Chappell',
   title: 'The Roles Didn\'t Exist. So Insook Chappell Wrote Them',
