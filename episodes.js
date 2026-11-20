@@ -30,7 +30,10 @@ From childhood afternoons spent reading in a Hong Kong library to becoming a fel
 
 A regular contributor to The Guardian, Times Literary Supplement, and The Telegraph, Fan also advocates for writers' rights as vice-chair of the Authors' Licensing and Collecting Society and co-chair of the Copyright Licensing Agency.`,
 
-  links: [],
+  links: [  {
+    label: 'Kit Fan\'s novels and poems',
+    url: 'https://www.kitfan.net'
+  }],
 
   kw: 'Kit Fan Goodbye Chinatown Diamond Hill The Ink Cloud Reader Hong Kong novelist poet fiction literature writing food migration belonging diaspora AI copyright creativity Royal Society of Literature',
 
