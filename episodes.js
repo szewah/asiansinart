@@ -46,7 +46,7 @@ A regular contributor to The Guardian, Times Literary Supplement, and The Telegr
     'artistic courage'
   ],
 
-  goodFor: 'Readers, writers, and anyone interested in food, family, migration and identity.',
+  goodFor: 'Poets, writers, and anyone interested in food, family, migration, and home.',
 
   moments: [],
 
