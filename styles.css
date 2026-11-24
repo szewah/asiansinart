@@ -331,6 +331,11 @@ figcaption { font-size: var(--s-sm); color: var(--muted); margin-top: 10px; }
 .sponsor-cta .btn:hover { background: var(--on-violet-muted); border-color: var(--on-violet-muted); }
 @media (max-width: 860px) { .sponsor-intro, .sponsor-options { grid-template-columns: 1fr; } }
 @media (max-width: 560px) { .sponsor-cta .btn { white-space: normal; } }
+@media (min-width: 861px) {
+  .sponsor-cta {
+    margin-top: 48px;
+  }
+}
 
 /* Footer */
 .site-foot { border-top: 1px solid var(--line); }
